@@ -1,0 +1,14 @@
+html{
+    background-color: coral;
+    backdrop-filter: 10;
+    
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+}
+
+p{
+font-family: 'Libre Baskerville', serif;
+font-size: small;
+}
